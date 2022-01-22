@@ -66,7 +66,7 @@
         "loader": null,
         "nvml": true
     },
-    "donate-level": 0,
+    "donate-level": 1,
     "donate-over-proxy": 1,
     "log-file": null,
     "pools": [
